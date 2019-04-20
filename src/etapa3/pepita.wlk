@@ -21,7 +21,8 @@ object pepita {
 	}
 	
 	method salirAComer() {
-		self.volar(5)		
+		self.volar(5)		// "self" es una referencia al objeto que recibe el mensaje
+		// ... completar este metodo con las otra acciones sobre self
 	}
 	
 	method haceLoQueQuieras() { 
